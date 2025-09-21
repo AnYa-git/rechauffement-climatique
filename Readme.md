@@ -23,9 +23,13 @@ L’objectif n’était pas de reproduire à l’identique, mais de **comprendre
 
 ## 📸 Screenshots
 
-![Preview du projet](images/screenshot1.png)  
+## Section 1
+![Preview du projet](images/screenshot1.png) 
+## Section 2
 ![Preview du projet](images/screenshot2.png)  
+## Section 3
 ![Preview du projet](images/screenshot3.png)  
+## Section 4
 ![Preview du projet](images/screenshot4.png)
 
 ---
