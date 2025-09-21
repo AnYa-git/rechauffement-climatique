@@ -220,20 +220,20 @@ h1 {
 .sec2-content-bottom h2,
 .sec2-content-top h2 {
   font-size: 2rem;
-  margin-bottom: 20px;
   text-transform: capitalize;
   position: relative;
 }
 
-.sec2-content-bottom h2::before,
-.sec2-content-top h2::before {
-  content: "";
-  position: absolute;
+.sec2-content-text-title {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+  gap: 15px;
+}
+
+.point {
   width: 20px;
   height: 20px;
-  top: 9px;
-  left: -25px;
-  transform: translate(-50%);
   border-radius: 50px;
   border: 3px solid white;
   background-color: var(--primary-color);
@@ -253,7 +253,7 @@ h1 {
 }
 
 .sec2-content-text {
-  max-width: 70%;
+  max-width: 500px;
 }
 
 .sec2-content-text p {
