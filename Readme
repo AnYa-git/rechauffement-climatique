@@ -1,39 +1,35 @@
-🌍 Projet Réchauffement Climatique (Tutoriel Suivi)
-📖 Description
+# 🌍 Projet Réchauffement Climatique
 
-Ce projet est une reproduction d’un site web réalisée dans le cadre d’un tutoriel YouTube proposé par "LiveCode"
-.
-Je l’ai refait afin de pratiquer le HTML et le CSS, tout en comprenant la structure et les techniques utilisées.
+## 📖 Description  
+Ce projet est inspiré d’un tutoriel YouTube de **LiveCode**, mais ma réalisation est très différente.  
+Je me suis servi du tutoriel comme point de départ, puis j’ai choisi de **coder à ma manière**, en modifiant la structure, le style et certaines techniques.  
 
-Même si je suis le tutoriel, j’ajoute également certaines propriétés et styles de mon choix afin de tester mes propres idées et d’apporter une petite touche personnelle.
+L’objectif n’était pas de reproduire à l’identique, mais de **comprendre les concepts** et de les adapter à ma vision personnelle.  
 
-🎯 Objectifs pédagogiques
+---
 
-M’entraîner à structurer une page web en HTML.
+## 🎯 Objectifs pédagogiques  
+- Approfondir ma pratique du **HTML** et du **CSS**.  
+- Tester différentes approches de mise en page et d’animations.  
+- Développer ma propre méthodologie de travail, même en partant d’un support existant.  
+- Prendre l’habitude d’organiser et de partager mes projets sur **GitHub**.  
 
-Améliorer ma maîtrise du CSS (mise en page, animations, styles).
+---
 
-Comprendre comment organiser un projet web simple.
+## 🚀 Technologies utilisées  
+- **HTML5**  
+- **CSS3**  
 
-Prendre l’habitude d’utiliser GitHub pour héberger et partager mes projets.
+---
 
-🚀 Technologies utilisées
+## 🙏 Crédit  
+Projet initialement inspiré du tutoriel :  
+📺 [LiveCode – Tutoriel](https://youtu.be/4eT9X64n8XU?si=XLXkL0x19gePvQkB)  
 
-HTML5
+---
 
-CSS3
-
-🙏 Crédit
-
-Ce projet est basé sur le tutoriel de :
-📺 (https://youtu.be/4eT9X64n8XU?si=XLXkL0x19gePvQkB)
-
-Auteur : [LiveCode]
-
-🔮 Étapes futures
-
-Créer une version avec un thème différent.
-
-Ajouter plus d’animations ou d’effets CSS.
-
-Améliorer le responsive pour une meilleure expérience mobile.
+## 🔮 Étapes futures  
+- Développer une version avec un **thème alternatif**.  
+- Ajouter des animations et transitions plus poussées.  
+- Améliorer encore le **responsive design** pour mobiles et tablettes.  
+- Expérimenter avec des **SVG personnalisés** et des effets plus créatifs.  
